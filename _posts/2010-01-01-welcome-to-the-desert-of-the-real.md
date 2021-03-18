@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  http://127.0.0.1:4000/assets/img/AnnaUniversity.jpeg
+  https://cegeight.github.io/assets/img/AnnaUniversity.jpeg
 optimized_image: >-
-  http://127.0.0.1:4000/assets/img/AnnaUniversity.jpeg
+   https://cegeight.github.io/assets/img/AnnaUniversity.jpeg
 category: blog
 tags:
   - welcome
